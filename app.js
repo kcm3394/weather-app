@@ -1,4 +1,4 @@
-const apiKey = '9a0529aca7933fff796460ab43ddfa15';
+const apiKey = config.API_KEY;
 const baseUrl = 'http://api.openweathermap.org/data/2.5/weather';
 const celsiusQuery = '&units=metric';
 const fahrenheitQuery = '&units=imperial'

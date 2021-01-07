@@ -1,6 +1,6 @@
 # Weather App
 
-HTML/CSS/JavaScript weather app inspired by [this](https://youtu.be/wPElVpR1rwA) tutorial.
+HTML/CSS/JavaScript weather app inspired by [this](https://youtu.be/wPElVpR1rwA) tutorial but using Axios and the OpenWeatherAPI.
 
 ### TODO
 
